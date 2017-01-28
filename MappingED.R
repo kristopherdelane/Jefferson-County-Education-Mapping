@@ -11,7 +11,7 @@ library(ggplot2)
 library(dplyr)
 
 #Install API key
-api.key.install(key = "b989cfdd2d255e9608fd9393c21e10307821abba")
+api.key.install(key = "YOUR KEY HERE")
 
 # The FIPS county code for Jefferson County
 counties<-111
